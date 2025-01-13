@@ -4,7 +4,13 @@
 }
 
 body {
-  background-color: #dce0bc;
+  /* background-color: #dce0bc; */
+  background-image: url('./images/my-background.jpg');
+  background-size: cover;      
+  background-position: center; 
+  background-attachment: fixed; 
+  height: 100vh;               
+  margin: 0;
 }
 
 .app {

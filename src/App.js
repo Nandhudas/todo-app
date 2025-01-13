@@ -18,7 +18,8 @@ function App() {
   };
 
   return (
-    <div className="app">
+    <div
+      className="app">
       <div className="mainHeading">
         <h1 style={{color:"black"}}>ToDo List</h1>
       </div>
